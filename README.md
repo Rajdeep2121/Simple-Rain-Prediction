@@ -38,6 +38,10 @@ The data is normalized using StandardScaler method.
 > The model has an input layer of 32 nodes.
 > A hidden layer with 16 nodes.
 > An output layer with 1 node which produces 1 for rain and 0 for no rain.
+
+<p align="center">
+    <img src="NN.PNG" width="300" height="500">
+</p>
 <i>
 
 # Compilation and Fitting 

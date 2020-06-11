@@ -42,5 +42,5 @@ For prediction, a threshold value of 0.5 is used. It means:<br>
 
 The accuracy of neural model varies on varying the hyperparameters(epochs,batch size,optimizer etc). Hence a bunch of these hyperparameters are tested and the final result is computed for best accuracy and printed.
 <p align="center">
-    <img src="Capture.PNG" width="300" height="300">
+    <img src="Capture.PNG" width="900" height="300">
 </p>

@@ -37,9 +37,11 @@ For prediction, a threshold value of 0.5 is used. It means:<br>
 > Otherwise there is no chance of rain according to the prediction.
 
 <hr>
+<i>
 
 # TUNING OF NEURAL NETWORK
 
+</i>
 The accuracy of neural model varies on varying the hyperparameters(epochs,batch size,optimizer etc). Hence a bunch of these hyperparameters are tested and the final result is computed for best accuracy and printed.
 <p align="center">
     <img src="Capture.PNG" width="900" height="100">

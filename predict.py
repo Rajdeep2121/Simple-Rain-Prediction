@@ -6,7 +6,7 @@ from sklearn.metrics import confusion_matrix
 from keras.layers import Dense
 from keras.models import Sequential
 
-# READING DATA
+# FETCHING DATA
 data = pd.read_csv("rain.csv")
 print(len(data))                # 25551 data points
 
